@@ -39,6 +39,7 @@ programa {
     } 
   }
   escreva("O valor total do estoque é de ", total," reais.")
+  escreva("Apenas para teste estou adicioonando uma linha para fins de estudo")
 
     
 
