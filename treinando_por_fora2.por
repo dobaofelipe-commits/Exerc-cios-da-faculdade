@@ -13,6 +13,5 @@ programa {
             maior=acidentes[i]
         }
     }
-    escreva("ola")
   }
 }
