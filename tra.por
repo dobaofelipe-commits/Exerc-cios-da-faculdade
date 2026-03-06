@@ -6,8 +6,8 @@ programa {
     resposta=valor
     para (inteiro i=1; i<valor; i++){
         resposta=(resposta*(valor-i))
-
-        escreva(resposta)
     }
+  escreva(resposta)
   }
+
 }
