@@ -14,7 +14,7 @@ programa {
       leia(valor[i])
       escreva("Qual a quantidade em estoque: ")
       leia(quantidade[i])
-      total=+valor[i]*quantidade[i]
+      total=total+valor[i]*quantidade[i]
       se(quantidade[i]==0){
         semestoque[i]= nome[i]
         sem++
